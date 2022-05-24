@@ -27,6 +27,8 @@ k number of records.
 and regression respectively
 
 ## Program:
+'''
+/*
 Program to implement random classification.
 Developed by   : S.Nithya
 RegisterNumber :  212219040099
@@ -41,8 +43,8 @@ plt.plot(X[:,0][y==1], X[:,1][y==1],'bo')
 plt.xlabel("Feature 1")
 plt.ylabel("Feaure 2")
 plt.title("Random Classification Data with 2 classes")
-
-
+*/
+'''
 ## Output:
 ![image](https://user-images.githubusercontent.com/89792763/169957703-d954fd34-e77f-4156-a474-565cb933f49e.png)
 
